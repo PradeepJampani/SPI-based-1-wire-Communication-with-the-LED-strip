@@ -65,5 +65,5 @@ module_init(spi_init);
 module_exit(spi_exit);
  
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Sushant Trivedi & Ravi Bhushan");
+MODULE_AUTHOR("Pradeep Jampani");
 MODULE_DESCRIPTION("SPI Device module");
