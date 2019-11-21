@@ -371,5 +371,5 @@ module_init(spidriver_init);
 module_exit(spidriver_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Sushant Trivedi & Ravi Bhushan");
+MODULE_AUTHOR("Pradeep Jampani");
 MODULE_DESCRIPTION("SPI Driver module");
